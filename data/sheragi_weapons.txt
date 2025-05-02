@@ -1,0 +1,5 @@
+
+outfit "Dragonflame Cannon"
+	weapon
+		"shield damage" 8750.00
+		"hull damage" 5250.00
