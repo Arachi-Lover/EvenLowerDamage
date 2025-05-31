@@ -33,3 +33,8 @@ outfit "Ion Rain Gun"
 	weapon
 		"shield damage" 5.10
 		"hull damage" 2.10
+
+outfit "MCS Extractor"
+	weapon
+		"shield damage" .1
+		"hull damage" .7

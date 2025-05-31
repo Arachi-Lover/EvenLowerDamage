@@ -1,9 +1,4 @@
 
-outfit "Quarg Skylance"
-	weapon
-		"shield damage" 6.75
-		"hull damage" 5.40
-
 outfit "Skydagger"
 	weapon
 		"shield damage" 3.40
