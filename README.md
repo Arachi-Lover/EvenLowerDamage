@@ -59,3 +59,4 @@ T4
 [RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
 [SmolEngines](https://github.com/Arachi-Lover/SmolEngines)
 [PirateVariantsHPFix](https://github.com/Arachi-Lover/PirateVariantsHPFix)
+[Glory to the CCOR](https://github.com/Arachi-Lover/Glory-to-the-CCOR)
